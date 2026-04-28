@@ -8,7 +8,7 @@ I am retired marketing manager with 40 years experience in sales and marketing.
 ## My Automations
 
 ### Week 1
-**What I built:** **What it does:** **Link to workflow:** [Click here to view workflow](PASTE_YOUR_LINK_HERE)
+**What I built:** **What it does:** **Link to workflow:** [Click here to view workflow](https://github.com/ilonakbejan-sudo/02signal-portfolio-template/blob/main/workflows/My%20workflow%206.json)
 
 ### Week 2
 **What I built:** **What it does:** **Link to workflow:** [Click here to view workflow](PASTE_YOUR_LINK_HERE)
