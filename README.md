@@ -3,7 +3,7 @@
 ## About Me
 
 
-I am retired marketing manager with 40 years experience in sales and marketing.
+I am a retired marketing and sales manager who is learning how to work with AI from the very basics, with no prior experience.
 
 ## My Automations
 
