@@ -1,9 +1,9 @@
-# [Your Name] — Portfolio
+# Ilona Kbejan — Portfolio
 
 ## About Me
 Replace this with a short intro about yourself and your business -->
 
----
+I am retired marketing manager with 40 years experience in sales and marketing.
 
 ## My Automations
 
